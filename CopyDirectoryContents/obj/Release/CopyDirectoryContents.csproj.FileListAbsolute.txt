@@ -1,0 +1,6 @@
+E:\Apurva\CopyDirectoryContents\CopyDirectoryContents\CopyDirectoryContents\bin\Release\CopyDirectoryContents.exe.config
+E:\Apurva\CopyDirectoryContents\CopyDirectoryContents\CopyDirectoryContents\bin\Release\CopyDirectoryContents.exe
+E:\Apurva\CopyDirectoryContents\CopyDirectoryContents\CopyDirectoryContents\bin\Release\CopyDirectoryContents.pdb
+E:\Apurva\CopyDirectoryContents\CopyDirectoryContents\CopyDirectoryContents\obj\Release\CopyDirectoryContents.exe
+E:\Apurva\CopyDirectoryContents\CopyDirectoryContents\CopyDirectoryContents\obj\Release\CopyDirectoryContents.pdb
+E:\Apurva\CopyDirectoryContents\CopyDirectoryContents\CopyDirectoryContents\obj\Release\CopyDirectoryContents.csprojResolveAssemblyReference.cache
